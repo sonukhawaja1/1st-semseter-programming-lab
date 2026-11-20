@@ -1,1 +1,1 @@
-# Cplusplus-lab-task
+1st-semseter-programming-lab
